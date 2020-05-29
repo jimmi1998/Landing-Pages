@@ -8,7 +8,7 @@ Ii was build based on the starter project provided by Udacity, which has some HT
 
 
 ## Project Rubric
-Some key rubrics include
+Some key rubrics include:
     * All files shown must be present and the app must successfully render a home page with clear design and functionality added when index.html is loaded in the browser. No errors should display in console.
     * All features are usable across modern desktop, tablet, and phone  browsers.
     * Styling has been added for active states.
